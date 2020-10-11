@@ -1,0 +1,18 @@
+C:\Users\Roshan\Documents\Grade 11 Programming\Unit 1\RoshanNanthapalanA1Cooking\RoshanNanthapalanA1Cooking\bin\Debug\RoshanNanthapalanA1Cooking.exe.config
+C:\Users\Roshan\Documents\Grade 11 Programming\Unit 1\RoshanNanthapalanA1Cooking\RoshanNanthapalanA1Cooking\bin\Debug\RoshanNanthapalanA1Cooking.exe
+C:\Users\Roshan\Documents\Grade 11 Programming\Unit 1\RoshanNanthapalanA1Cooking\RoshanNanthapalanA1Cooking\bin\Debug\RoshanNanthapalanA1Cooking.pdb
+C:\Users\Roshan\Documents\Grade 11 Programming\Unit 1\RoshanNanthapalanA1Cooking\RoshanNanthapalanA1Cooking\obj\Debug\RoshanNanthapalanA1Cooking.csprojResolveAssemblyReference.cache
+C:\Users\Roshan\Documents\Grade 11 Programming\Unit 1\RoshanNanthapalanA1Cooking\RoshanNanthapalanA1Cooking\obj\Debug\RoshanNanthapalanA1Cooking.Form1.resources
+C:\Users\Roshan\Documents\Grade 11 Programming\Unit 1\RoshanNanthapalanA1Cooking\RoshanNanthapalanA1Cooking\obj\Debug\RoshanNanthapalanA1Cooking.Properties.Resources.resources
+C:\Users\Roshan\Documents\Grade 11 Programming\Unit 1\RoshanNanthapalanA1Cooking\RoshanNanthapalanA1Cooking\obj\Debug\RoshanNanthapalanA1Cooking.csproj.GenerateResource.Cache
+C:\Users\Roshan\Documents\Grade 11 Programming\Unit 1\RoshanNanthapalanA1Cooking\RoshanNanthapalanA1Cooking\obj\Debug\RoshanNanthapalanA1Cooking.exe
+C:\Users\Roshan\Documents\Grade 11 Programming\Unit 1\RoshanNanthapalanA1Cooking\RoshanNanthapalanA1Cooking\obj\Debug\RoshanNanthapalanA1Cooking.pdb
+D:\Documents\School\Grade 11\Grade 11 Programming\Unit 1 Cooking Game Assignment\RoshanNanthapalanA1Cooking\RoshanNanthapalanA1Cooking\bin\Debug\RoshanNanthapalanA1Cooking.exe.config
+D:\Documents\School\Grade 11\Grade 11 Programming\Unit 1 Cooking Game Assignment\RoshanNanthapalanA1Cooking\RoshanNanthapalanA1Cooking\obj\Debug\RoshanNanthapalanA1Cooking.exe
+D:\Documents\School\Grade 11\Grade 11 Programming\Unit 1 Cooking Game Assignment\RoshanNanthapalanA1Cooking\RoshanNanthapalanA1Cooking\obj\Debug\RoshanNanthapalanA1Cooking.pdb
+D:\Documents\School\Grade 11\Grade 11 Programming\Unit 1 Cooking Game Assignment\RoshanNanthapalanA1Cooking\RoshanNanthapalanA1Cooking\bin\Debug\RoshanNanthapalanA1Cooking.exe
+D:\Documents\School\Grade 11\Grade 11 Programming\Unit 1 Cooking Game Assignment\RoshanNanthapalanA1Cooking\RoshanNanthapalanA1Cooking\bin\Debug\RoshanNanthapalanA1Cooking.pdb
+D:\Documents\School\Grade 11\Grade 11 Programming\Unit 1 Cooking Game Assignment\RoshanNanthapalanA1Cooking\RoshanNanthapalanA1Cooking\obj\Debug\RoshanNanthapalanA1Cooking.csprojResolveAssemblyReference.cache
+D:\Documents\School\Grade 11\Grade 11 Programming\Unit 1 Cooking Game Assignment\RoshanNanthapalanA1Cooking\RoshanNanthapalanA1Cooking\obj\Debug\RoshanNanthapalanA1Cooking.Form1.resources
+D:\Documents\School\Grade 11\Grade 11 Programming\Unit 1 Cooking Game Assignment\RoshanNanthapalanA1Cooking\RoshanNanthapalanA1Cooking\obj\Debug\RoshanNanthapalanA1Cooking.Properties.Resources.resources
+D:\Documents\School\Grade 11\Grade 11 Programming\Unit 1 Cooking Game Assignment\RoshanNanthapalanA1Cooking\RoshanNanthapalanA1Cooking\obj\Debug\RoshanNanthapalanA1Cooking.csproj.GenerateResource.Cache
