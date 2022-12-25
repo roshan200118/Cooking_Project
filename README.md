@@ -1,9 +1,5 @@
-# Cooking_Project
+# Cooking Project
 Created a game where the user has to create a burger in a restaurant kitchen with limited time. Created using C#. (2017).
-https://user-images.githubusercontent.com/61467608/103037388-b958f780-4539-11eb-9eac-521e4577c101.mp4
-https://user-images.githubusercontent.com/61467608/103037390-ba8a2480-4539-11eb-94fc-dd849ee62bcf.mp4
-https://user-images.githubusercontent.com/61467608/103037393-bb22bb00-4539-11eb-8daf-233c24ac94e7.mp4
-https://user-images.githubusercontent.com/61467608/103037395-bb22bb00-4539-11eb-93de-e3292d4c090c.mp4
 
 ![Cook1](https://user-images.githubusercontent.com/61467608/103037339-9dedec80-4539-11eb-82b3-81a11a4a3364.gif)
 
